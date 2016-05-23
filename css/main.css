@@ -224,7 +224,7 @@ a:active {
 }
 
 .svg #logo{
-  background: no-repeat url('logo.svg');
+  background: no-repeat url('../img/logo.svg');
   background-size: 100%;
 }
 
