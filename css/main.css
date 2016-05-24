@@ -32,6 +32,7 @@ img {
 img {
   max-width: 100%;
   height: auto;
+  height: 200px;
 }  
 
 /* Remove default fieldset styles. */
@@ -224,7 +225,7 @@ a:active {
 }
 
 .svg #logo{
-  background: no-repeat url('../img/logo.svg');
+  background: no-repeat url('../img/logo.png');
   background-size: 100%;
 }
 
